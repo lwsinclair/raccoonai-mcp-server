@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/raccoonaihq-raccoonai-mcp-server-badge.png)](https://mseep.ai/app/raccoonaihq-raccoonai-mcp-server)
+
 # Raccoon AI MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@raccoonaihq/raccoonai-mcp-server)](https://smithery.ai/server/@raccoonaihq/raccoonai-mcp-server)
